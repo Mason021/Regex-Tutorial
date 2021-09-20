@@ -40,3 +40,6 @@ Mason Cain is currently a student in Case Western Reserve University's Boot Camp
 For any questions, please contact me with the information below:
 
 GitHub: [@Mason021](https://api.github.com/users/Mason021)
+
+
+GitHub Gist: [Gist](https://gist.github.com/Mason021/f752452116e54c15da840d0e907215ba#anchors)
